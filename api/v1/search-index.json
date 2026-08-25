@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "file-extensions": {
+      "id": "file-extensions",
+      "name": "File Extensions",
+      "status": "scaffold",
+      "source": "IANA + public data"
+    }
+  },
+  "searchableFields": []
+}
