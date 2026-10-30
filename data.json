@@ -1,0 +1,8 @@
+[
+  {
+    "id": "file-extensions",
+    "name": "File Extensions",
+    "status": "scaffold",
+    "source": "IANA + public data"
+  }
+]
